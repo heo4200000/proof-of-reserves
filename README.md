@@ -64,7 +64,7 @@ A complete Merkle Tree (full binary tree) requires 2^n leaf node data, but the a
 
 
 ###### For example：
-| Hash   | balances  |
+| Hash   | balanc  |6000000
 |--------| -------------|
 | hash1  | {"BTC":1,"ETH": 6,"USDT":10}|
 | hash2  | {"BTC":2,"ETH":4,"USDT":8}|
